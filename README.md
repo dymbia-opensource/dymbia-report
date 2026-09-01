@@ -7,7 +7,7 @@
 **CARRERA DE INGENIERÍA DE SOFTWARE**  
 
 **CURSO:** 1ASI0729 - Desarrollo de Aplicaciones Open Source  
-**SECCIÓN:** 7742  
+**SECCIÓN:** 1ASI0729  
 **PROFESOR:** Angel Augusto Velasquez Nuñez  
 **CICLO ACADÉMICO:** 2026-20  
 
