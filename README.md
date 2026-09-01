@@ -18,13 +18,13 @@
 **PRODUCTO:** Dymbia - SaaS de Agricultura de Precisión (Café y Tubérculos)  
 
 ### **RELACIÓN DE INTEGRANTES:**
-| Código       | Apellidos y Nombres                             | Carrera |
-|:-------------|:------------------------------------------------| :--- |
-| U202315120   | Duarte Ruffner, Drago Derick                    | Ingeniería de Software |
-| U20241E057   | Sanca Condori, Miguel                           | Ingeniería de Software |
-| U202...      | [Apellidos, Nombres Integrante 3]               | Ingeniería de Software |
-| U202...      | [Apellidos, Nombres Integrante 4]               | Ingeniería de Software |
-| U202...      | [Apellidos, Nombres Integrante 5]               | Ingeniería de Software |
+| Código     | Apellidos y Nombres               | Carrera |
+|:-----------|:----------------------------------| :--- |
+| U202315120 | Duarte Ruffner, Drago Derick      | Ingeniería de Software |
+| U20241E057 | Sanca Condori, Miguel             | Ingeniería de Software |
+| U202...    | [Apellidos, Nombres Integrante 3] | Ingeniería de Software |
+| U202...    | [Apellidos, Nombres Integrante 4] | Ingeniería de Software |
+| U202422128 | Vargas Enriquez, Jose Carlos      | Ingeniería de Software |
 
 **FECHA DE ENTREGA:** [FECHA]  
 
