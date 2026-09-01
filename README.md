@@ -22,7 +22,7 @@
 |:-----------|:----------------------------------| :--- |
 | U202315120 | Duarte Ruffner, Drago Derick      | Ingeniería de Software |
 | U20241E057 | Sanca Condori, Miguel             | Ingeniería de Software |
-| U202...    | [Apellidos, Nombres Integrante 3] | Ingeniería de Software |
+| U202422816 | Solorzano Sullca, Benjamin        | Ingeniería de Software |
 | U202...    | [Apellidos, Nombres Integrante 4] | Ingeniería de Software |
 | U202422128 | Vargas Enriquez, Jose Carlos      | Ingeniería de Software |
 
