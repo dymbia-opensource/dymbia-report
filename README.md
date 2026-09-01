@@ -20,8 +20,8 @@
 ### **RELACIÓN DE INTEGRANTES:**
 | Código       | Apellidos y Nombres                             | Carrera |
 |:-------------|:------------------------------------------------| :--- |
-| U202...      | [Apellidos, Nombres Integrante 1 - Team Leader] | Ingeniería de Software |
-| U2020241E057 | Sanca Condori, Miguel                           | Ingeniería de Software |
+| U202315120   | Duarte Ruffner, Drago Derick                    | Ingeniería de Software |
+| U20241E057   | Sanca Condori, Miguel                           | Ingeniería de Software |
 | U202...      | [Apellidos, Nombres Integrante 3]               | Ingeniería de Software |
 | U202...      | [Apellidos, Nombres Integrante 4]               | Ingeniería de Software |
 | U202...      | [Apellidos, Nombres Integrante 5]               | Ingeniería de Software |
